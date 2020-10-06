@@ -1,0 +1,1 @@
+{"version":3,"file":"endpoint-not-found.js","sourceRoot":"","sources":["../../src/middleware/endpoint-not-found.ts"],"names":[],"mappings":";;;AAEA,SAAgB,gBAAgB,CAAE,GAAY,EAAE,GAAa,EAAE,IAAkB;IAC/E,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,EAAE,KAAK,EAAE,WAAW,EAAE,CAAC,CAAA;AAC9C,CAAC;AAFD,4CAEC"}
