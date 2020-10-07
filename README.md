@@ -9,8 +9,9 @@ You can add additional endpoints for now it has 2:
 
 To run locally:
 1. Run 'npm i'
-2. Run 'npm run dev'
-3. The API should be available at 'localhost:3000'
+2. If you want linter to work install VSCode extension [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+3. Run 'npm run dev'
+4. The API should be available at 'localhost:3000'
    
 Example usage in browser
 ```js
